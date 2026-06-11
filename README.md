@@ -19,11 +19,11 @@ Il illustre un cas d’usage professionnel : préparation des données, modélis
 ## 📁 Structure du dépôt
 
 Business-Analytics-Dashboard-2020-2024  
-│
-├── raw_data/           → Fichiers bruts (Excel, CSV)
-├── report/             → Fichier Power BI (.pbix) + thème JSON
-├── documentation/      → PDF explicatif + captures d’écran
-└── README.md           → Présentation du projet
+│  
+├── raw_data/           → Fichiers bruts (Excel, CSV)  
+├── report/             → Fichier Power BI (.pbix) + thème JSON  
+├── documentation/      → PDF explicatif + captures d’écran  
+└── README.md           → Présentation du projet  
 
 
 ---
