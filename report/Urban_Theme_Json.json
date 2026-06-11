@@ -1,0 +1,14 @@
+{
+  "name": "UrbanMove Palette",
+  "dataColors": [
+    "#0078D4", 
+    "#005A9E",
+    "#F7630C",
+    "#00A300",
+    "#D13438",
+    "#F2F2F2"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#0078D4"
+}
